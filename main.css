@@ -1,0 +1,8 @@
+/* this is a single-line comment */
+/*
+this
+is
+a
+multi-line
+*/
+.content { background-color: blue; /* "blu" is not a valid color value. It should be "blue". */ }
