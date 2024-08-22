@@ -1,8 +1,17 @@
-/* this is a single-line comment */
 /*
-this
-is
-a
-multi-line
+* Description: Primary style sheet for valleytownhall.com
+* Author: Angel Correa
 */
-.content { background-color: blue; /* "blu" is not a valid color value. It should be "blue". */ }
+body {
+    background-color: #979797; /* This is a shade of orange. */
+    }
+    h1 {
+    color: #363636;
+    }
+    h2 {
+    font-style: italic;
+    border-bottom: 3px solid #0400ff; /* Add a line below h2s */
+    }
+    ul {
+    list-style-type: square; /* Changes the bullets to squares */
+    }
